@@ -1,3 +1,10 @@
+## For starting the project follow the below steps
+
+a. npm install
+
+b. npm start
+
+
 ## Below are the screen shots of the project while tested out.
 
 1. I have tested the output using the text type of input field.
